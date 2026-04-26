@@ -3,7 +3,7 @@
 SkyReserve is a robust, full-stack flight reservation system designed to provide a seamless ticket booking experience. This project demonstrates a complete end-to-end implementation including a responsive frontend, a high-performance backend, and cloud-native deployment on AWS.
 
 ---
-<img width="1000" height="700" alt="Gemini_Generated_Image_62b65e62b65e62b6" src="https://github.com/user-attachments/assets/1b4c0e9e-6433-4736-989b-313cca38bb23" />
+<img width="1000" height="500" alt="Gemini_Generated_Image_62b65e62b65e62b6" src="https://github.com/user-attachments/assets/1b4c0e9e-6433-4736-989b-313cca38bb23" />
 
 ## 🛠️ Tech Stack
 
